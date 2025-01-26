@@ -1,3 +1,6 @@
 [submodule "DecentralizedDen_SmartContracts"]
 	path = DecentralizedDen_SmartContracts
 	url = https://github.com/namankhandelwal1607/DecentralizedDen_SmartContracts
+[submodule "TeachX_contracts"]
+	path = TeachX_contracts
+	url = https://github.com/namankhandelwal1607/TeachX_contracts
